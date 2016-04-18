@@ -1,3 +1,5 @@
 # babel-brunch-es6-modules-test
 
-Reference: babel/babel-brunch#27 brunch/brunch#1300
+### Reference:
+- https://github.com/babel/babel-brunch/issues/27
+- https://github.com/brunch/brunch/issues/1300
