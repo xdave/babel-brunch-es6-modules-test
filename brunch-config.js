@@ -12,8 +12,8 @@ module.exports = {
         autoRequire: { 'app.js': ['main'] }
     },
     plugins: {
-        babel: Object.assign({
+        babel: Object.assign({}, require('./babelrc.json'), {
 
-        }, require('./babelrc.json'))
+        })
     }
 };
