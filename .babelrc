@@ -1,1 +1,3 @@
-babelrc.json
+{
+    "presets": ["es2015"]
+}
