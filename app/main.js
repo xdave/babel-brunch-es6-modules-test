@@ -12,3 +12,5 @@ const validation = CreditCard.validate(card);
 
 const results = document.querySelector('#results');
 results.innerHTML = JSON.stringify(validation, null, 2);
+
+console.log(TEST_SOMETHING);
